@@ -1,0 +1,15 @@
+.main {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn-dark{
+  background-color: rgb(74, 88, 114) !important;
+}
+
+#abajo{
+  padding-top: 10px;
+}
